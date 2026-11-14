@@ -1,0 +1,99 @@
+{
+ "_note": "One list of every Naad Katha Short/Reel, by series and part, on both platforms. Covers are numbered from this list, never from one platform's grid. Add each new post here before its cover is made, with cover_url once the cover has a public link. style = cover colour option (series lock: every part uses its भाग 1 style). instagram/youtube = post id, or {\"scheduled\": \"<IST time>\", \"by\": \"<who>\"} until it is live.",
+ "series": [
+  {
+   "name": "दीपोत्सव",
+   "style": "1-navy-gold",
+   "parts": [
+    {
+     "bhag": 1,
+     "title": "Dhanteras: pehla dhan",
+     "cover": "naadkatha-cover_dhanteras_061126.jpg",
+     "youtube": "ELCj5LOmtgM",
+     "instagram": {
+      "scheduled": "Mon 17 Nov 2026 09:00 IST",
+      "by": "Naad Katha project task 'Post Dhanteras reel on Instagram' (still has the old cover)"
+     },
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/dhanteras_061126-cover.jpg"
+    },
+    {
+     "bhag": 2,
+     "title": "Choti Diwali: Narakasur",
+     "cover": "naadkatha-cover_choti-diwali_111126.jpg",
+     "youtube": "-L3QFD4IWW0",
+     "instagram": "18386470243238539",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/choti-diwali_111126-cover_v2.jpg"
+    },
+    {
+     "bhag": 3,
+     "title": "Badi Diwali: Bharat ke 14 saal",
+     "cover": "naadkatha-cover_badi-diwali-bharat_101126.jpg",
+     "youtube": "k6VQvq5HKuk",
+     "instagram": "18095452583678404",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/badi-diwali-bharat_101126-cover_v2.jpg"
+    },
+    {
+     "bhag": 4,
+     "title": "Govardhan Puja",
+     "cover": "naadkatha-cover_govardhan-puja_121126.jpg",
+     "youtube": "OWIfVsuniCw",
+     "instagram": "17900896659399470",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/govardhan-puja_121126-cover_v2.jpg"
+    },
+    {
+     "bhag": 5,
+     "title": "Bhai Dooj: Yamraj",
+     "cover": "naadkatha-cover_bhai-dooj_101126.jpg",
+     "youtube": "nnEkDmalqGc",
+     "instagram": "18123211012819762",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/bhai-dooj_101126-cover_v2.jpg"
+    }
+   ]
+  },
+  {
+   "name": "छठ",
+   "style": "1-navy-gold",
+   "parts": [
+    {
+     "bhag": 1,
+     "title": "Chhathi Maiya kaun hain",
+     "cover": "naadkatha-cover_chhath-1-chhathi-maiya_111126.jpg",
+     "youtube": "QuRrOYc6JIQ",
+     "instagram": "18417303316080235",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/chhath-1-chhathi-maiya_111126-cover.jpg"
+    },
+    {
+     "bhag": 2,
+     "title": "Surya pooja kyun",
+     "cover": "naadkatha-cover_chhath-2-surya-pooja_121126.jpg",
+     "youtube": "9Z85BFuF2BM",
+     "instagram": "18074005994773931",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/chhath-2-surya-pooja_121126-cover.jpg"
+    },
+    {
+     "bhag": 3,
+     "title": "Doobta suraj",
+     "cover": "naadkatha-cover_chhath-3-doobta-suraj_131126.jpg",
+     "youtube": "ya6KZxxijok",
+     "instagram": "18091111181274456",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/chhath-3-doobta-suraj_131126-cover.jpg"
+    }
+   ]
+  },
+  {
+   "name": "लंका",
+   "style": "1-navy-gold",
+   "parts": [
+    {
+     "bhag": 1,
+     "title": "Sone ki Lanka kisne banayi",
+     "cover": "naadkatha-cover_lanka-1-rahasya_141126.jpg",
+     "youtube": "JwOuERdUzy8",
+     "instagram": "18106877921369290",
+     "cover_url": "https://raw.githubusercontent.com/vsinghal90/content-media/claude/project-thread-ykeera/naad-katha/lanka-1-rahasya_141126-cover.jpg"
+    }
+   ]
+  }
+ ],
+ "ignore_youtube_before": "2026-01-01"
+}

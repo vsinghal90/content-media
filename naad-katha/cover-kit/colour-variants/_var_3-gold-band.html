@@ -1,0 +1,20 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Yatra+One&family=Tiro+Devanagari+Hindi&display=block" rel="stylesheet">
+<style>
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#070a24}
+.bg{position:absolute;inset:0;background:url('{{BG}}') center/cover}
+.scrim{position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,10,36,0) 0%,rgba(7,10,36,0) 36%,rgba(7,10,36,.78) 50%,rgba(7,10,36,.9) 66%,rgba(7,10,36,.94) 100%)}
+.block{position:absolute;left:60px;right:60px;top:870px;display:flex;flex-direction:column;align-items:center;text-align:center}
+.pill{font-family:'Yatra One';font-size:112px;color:#1a1030;line-height:1.1;white-space:nowrap;background:linear-gradient(180deg,#ffd98a,#e8bd66);border:5px solid #8a6224;border-radius:999px;padding:10px 14px 6px 50px;margin-bottom:14px;box-shadow:0 4px 18px rgba(0,0,0,.6);display:flex;align-items:center;gap:26px}
+.chip{background:#1a1030;color:#ffd27a;border-radius:999px;padding:8px 36px 2px}
+.title{font-family:'Yatra One';color:#ffd27a;line-height:1.1;white-space:nowrap;
+ -webkit-text-stroke:5px #2a1806;paint-order:stroke fill;text-shadow:0 5px 22px rgba(0,0,0,.85)}
+.sub{text-wrap:balance;font-family:'Yatra One';color:#fff6e0;line-height:1.18;margin-top:22px;max-width:940px;
+ -webkit-text-stroke:4px #070a24;paint-order:stroke fill;text-shadow:0 3px 14px rgba(0,0,0,.95)}
+</style></head><body><div class="bg"></div><div class="scrim"></div>
+<div class="block"><div class="pill" id="p"><span>{{SERIES}}</span><span class="chip">{{BHAG}}</span></div><div class="title" id="t">{{TITLE}}</div><div class="sub" id="s">{{SUB}}</div></div>
+<script>
+function fit(el,max,minpx,w){let s=max;el.style.fontSize=s+'px';while(el.scrollWidth>w&&s>minpx){s-=2;el.style.fontSize=s+'px'}}
+function fitLines(el,max,minpx,lines){let s=max;el.style.fontSize=s+'px';while(el.getBoundingClientRect().height>s*1.18*lines+4&&s>minpx){s-=2;el.style.fontSize=s+'px'}}
+document.fonts.ready.then(()=>{fit(document.getElementById('p'),112,90,960);fit(document.getElementById("t"),200,150,940);fitLines(document.getElementById("s"),100,96,2);document.body.dataset.ready=1});
+</script></body></html>
