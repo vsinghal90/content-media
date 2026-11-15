@@ -7,7 +7,7 @@ Naming: `naadkatha-<type>_<slug>_<DDMMYY>.<ext>`. Never overwrite a posted file;
 
 | File | Post | Date |
 |---|---|---|
-| naadkatha-cover_lanka-2-sach_151126.jpg | Lanka ki Katha Bhag 2 ("Sone ki Lanka na Mahadev ne banayi, na Ravan ne"), YouTube + Instagram, 6 pm IST | 15 Nov 2026 |
+| naadkatha-cover_lanka-2-sach_151126.jpg | लंका भाग 2: "Sone ki Lanka na Mahadev ne banayi, na Ravan ne \| Lanka ki Katha Bhag 2" (YouTube LUaolXyG4zE, Instagram reel Dfwxi2eCGPK), posted 6 pm IST with this cover on both | 15 Nov 2026 |
 | naadkatha-cover_lanka-1-manyata_151126.jpg | Lanka ki Katha Bhag 1 ("Kya Sone ki Lanka Mahadev ne banayi thi?"), YouTube thumbnail set 15 Nov 2026, replacing रहस्य (owner OK) | 15 Nov 2026 |
 | naadkatha-cover_dhanteras_061126.jpg | दीपोत्सव भाग 1: "Dhanteras ka ek secret jo bahut kam log jaante hain: pehla dhan sona nahi tha" (YouTube ELCj5LOmtgM); YouTube thumbnail set 15 Nov 2026 (owner OK on the swap) | 15 Nov 2026 |
 | naadkatha-cover_choti-diwali_111126.jpg | दीपोत्सव भाग 2: "Choti Diwali pe Krishna ki Kahani?" (YouTube -L3QFD4IWW0); YouTube thumbnail set 15 Nov 2026 (owner OK on the swap) | 15 Nov 2026 |
