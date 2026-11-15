@@ -17,3 +17,9 @@ Naming: `naadkatha-<type>_<slug>_<DDMMYY>.<ext>`. Never overwrite a posted file;
 | naadkatha-cover_chhath-1-chhathi-maiya_111126.jpg | छठ भाग 1: "Chhathi Maiya kaun hain? \| Chhath ki Katha Bhag 1" (YouTube QuRrOYc6JIQ); YouTube thumbnail since 14 Nov 2026 | 15 Nov 2026 |
 | naadkatha-cover_chhath-2-surya-pooja_121126.jpg | छठ भाग 2: "Chhath mein Surya ki pooja kyun? \| Chhath ki Katha Bhag 2" (YouTube 9Z85BFuF2BM); YouTube thumbnail since 14 Nov 2026 | 15 Nov 2026 |
 | naadkatha-cover_chhath-3-doobta-suraj_131126.jpg | छठ भाग 3: "Chhath mein doobte suraj ko arghya kyun? \| Chhath ki Katha Bhag 3" (YouTube ya6KZxxijok); YouTube thumbnail since 14 Nov 2026 | 15 Nov 2026 |
+
+## Videos (`videos/`)
+
+| File | Post | Date |
+|---|---|---|
+| naadkatha-video_lanka-katha-bhag-2_151126.mp4 | लंका भाग 2: "Sone ki Lanka na Mahadev ne banayi, na Ravan ne \| Lanka ki Katha Bhag 2" (YouTube LUaolXyG4zE, Instagram reel Dfwxi2eCGPK), final cut 146.2 s, 1080x1920, closing C3 | 15 Nov 2026 |
